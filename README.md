@@ -9,4 +9,4 @@
 
 ## Imagene del proyecto
 
-![Imagen 1](./src/assets/favicon-dark.png)
+![Imagen 1](./src/assets/rutas_react.png)
