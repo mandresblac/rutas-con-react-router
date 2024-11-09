@@ -6,3 +6,7 @@
   - [Bootstrap](https://getbootstrap.com/): Framework multiplataforma para diseño de sitios y aplicaciones web basado en HTML y CSS.
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
   - [React](https://es.react.dev/): Biblioteca Javascript diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
+
+## Imagene del proyecto
+
+![Imagen 1](./src/assets/favicon-dark.png)
