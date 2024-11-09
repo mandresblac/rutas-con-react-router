@@ -1,5 +1,5 @@
 # Descripción del Repositorio
-- Este repositorio contiene un pequeño proyecto en cual se ponen en practica los conceptos aprendidos con la libreria [React Router v.6.4](https://reactrouter.com/en/main) que permite  trabajar con rutas en [React](https://es.react.dev/).
+- Este repositorio contiene un pequeño proyecto en cual se ponen en practica los conceptos aprendidos con la libreria [React Router v.6.4](https://reactrouter.com/en/main) que permite gestionar el enrutamiento en aplicaciones [React](https://es.react.dev/).
 - Para la realizacion de este proyecto se utilizaron las siguientes tecnologias:
   - [Html](https://developer.mozilla.org/es/docs/Web/HTML): Lenguaje de marcado para estuctura basica del proyecto en la web.
   - [Css](https://developer.mozilla.org/es/docs/Web/CSS): Lenguaje de estilos para dar presentacion al proyecto web.
