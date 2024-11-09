@@ -7,6 +7,6 @@
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
   - [React](https://es.react.dev/): Biblioteca Javascript diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
 
-## Imagene del proyecto
+## Imagen del proyecto
 
 ![Imagen 1](./src/assets/rutas_react.png)
